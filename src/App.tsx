@@ -12,11 +12,11 @@ function App() {
     <>
       <div className="container" style={{position:"relative"}}>
         <Routes>
-          <Route path="/khaatabook-app" element={<Home/>}></Route>
-          <Route path="/khaatabook-app/contacts" element={<Contacts/>}></Route>
-          <Route path="/khaatabook-app/your-account" element={<YourAccount/>}></Route>
-          <Route path="/khaatabook-app/bank-account" element={<BankAccount/>}></Route>
-          <Route path="/khaatabook-app/savings" element={<Savings/>}></Route>
+          <Route path="/vite-khaatabook-app" element={<Home/>}></Route>
+          <Route path="/vite-khaatabook-app/contacts" element={<Contacts/>}></Route>
+          <Route path="/vite-khaatabook-app/your-account" element={<YourAccount/>}></Route>
+          <Route path="/vite-khaatabook-app/bank-account" element={<BankAccount/>}></Route>
+          <Route path="/vite-khaatabook-app/savings" element={<Savings/>}></Route>
         </Routes>
       </div>
     </>
