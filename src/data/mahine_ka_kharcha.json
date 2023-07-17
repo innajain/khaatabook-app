@@ -1,0 +1,274 @@
+[
+    {
+      "title": "babaji ke diye hue paise",
+      "amount": 70000,
+      "type": "credit",
+      "date": "08/07/23"
+    },
+  
+    {
+      "title": "guard",
+      "amount": 1500,
+      "type": "debit",
+      "date": "08/07/23"
+    },
+    {
+      "title": "doodh",
+      "amount": 1870,
+      "type": "debit",
+      "date": "09/07/23"
+    },
+    {
+      "title": "chawal",
+      "amount": 910,
+      "type": "debit",
+      "date": "09/07/23"
+    },
+    {
+      "title": "stationery",
+      "amount": 30,
+      "type": "debit",
+      "date": "09/07/23"
+    },
+    {
+      "title": "stationery",
+      "amount": 30,
+      "type": "debit",
+      "date": "09/07/23"
+    },
+    {
+      "title": "geyser",
+      "amount": 200,
+      "type": "debit",
+      "date": "08/07/23"
+    },
+    {
+      "title": "scooty",
+      "amount": 150,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "tawa",
+      "amount": 300,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "deepak",
+      "amount": 20,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "rumaal",
+      "amount": 80,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "pankha blender",
+      "amount": 120,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "copy pen tape",
+      "amount": 110,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "jaamun",
+      "amount": 200,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "samose",
+      "amount": 45,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "achaar",
+      "amount": 120,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "lighter channi joona rubber-cooker sponge",
+      "amount": 220,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "bread hajmola",
+      "amount": 100,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "siddhu school fees",
+      "amount": 20834,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "ration from krishna store",
+      "amount": 6299,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "frontier",
+      "amount": 970,
+      "type": "debit",
+      "date": "12/07/23"
+    },
+    {
+      "title": "mummy pant tailor",
+      "amount": 100,
+      "type": "debit",
+      "date": "12/07/23"
+    },
+    {
+      "title": "reel dhaaga",
+      "amount": 20,
+      "type": "debit",
+      "date": "12/07/23"
+    },
+    {
+      "title": "RC print and lamination",
+      "amount": 60,
+      "type": "debit",
+      "date": "12/07/23"
+    },
+    {
+      "title": "fruits papeeta kela seb",
+      "amount": 560,
+      "type": "debit",
+      "date": "12/07/23"
+    },
+    {
+      "title": "tikki",
+      "amount": 65,
+      "type": "debit",
+      "date": "12/07/23"
+    },
+    {
+      "title": "chatai",
+      "amount": 400,
+      "type": "debit",
+      "date": "12/07/23"
+    },
+    {
+      "title": "mobile mera aur mummy ka theek karwaya",
+      "amount": 4500,
+      "type": "debit",
+      "date": "12/07/23"
+    },
+    {
+      "title": "limca",
+      "amount": 40,
+      "type": "debit",
+      "date": "12/07/23"
+    },
+    {
+      "title": "kavinagar mandir prasad",
+      "amount": 20,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "kavinagar mandir",
+      "amount": 10,
+      "type": "debit",
+      "date": "11/07/23"
+    },
+    {
+      "title": "ghantaghar mandir",
+      "amount": 10,
+      "type": "debit",
+      "date": "12/07/23"
+    },
+    {
+      "title": "siddhu photostate",
+      "amount": 20,
+      "type": "debit",
+      "date": "13/07/23"
+    },
+    {
+      "title": "siddhu tuition fees",
+      "amount": 1500,
+      "type": "debit",
+      "date": "13/07/23"
+    },
+    {
+      "title": "tailor",
+      "amount": 100,
+      "type": "debit",
+      "date": "13/07/23"
+    },
+    {
+      "title": "mobile button, tempered glass",
+      "amount": 300,
+      "type": "debit",
+      "date": "13/07/23"
+    },
+    {
+      "title": "tempered glass",
+      "amount": 150,
+      "type": "debit",
+      "date": "13/07/23"
+    },
+    {
+      "title": "ghantaghar mandir",
+      "amount": 10,
+      "type": "debit",
+      "date": "13/07/23"
+    },
+    {
+      "title": "chole bhature",
+      "amount": 70,
+      "type": "debit",
+      "date": "13/07/23"
+    },
+    {
+      "title": "icecream",
+      "amount": 140,
+      "type": "debit",
+      "date": "13/07/23"
+    },
+    {
+      "title": "cylinder",
+      "amount": 1100.5,
+      "type": "debit",
+      "date": "13/07/23"
+    },
+    {
+      "title": "sandwich bhujia pk dalmoth",
+      "amount": 180,
+      "type": "debit",
+      "date": "13/07/23"
+    },
+    {
+      "title": "condensed milk",
+      "amount": 138,
+      "type": "debit",
+      "date": "13/07/23"
+    },
+    {
+      "title": "geyser cell",
+      "amount": 60,
+      "type": "debit",
+      "date": "16/07/23"
+    },
+    {
+      "title": "baal",
+      "amount": 300,
+      "type": "debit",
+      "date": "16/07/23"
+    }
+  ]
+  

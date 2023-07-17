@@ -1,0 +1,13 @@
+div.title:first-child{
+    font-size: 60px;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}

@@ -1,0 +1,29 @@
+button{
+    width: 263px;
+    height: 195px;
+    background-color: transparent;
+    border: 2px solid blue;
+    color: var(--given-color);
+    cursor: pointer;
+    border-radius: 20px;
+    font-size: 30px;
+    position: relative;    
+}
+
+button:hover{
+    background-color: var(--given-color);
+    color: white;
+}
+
+button .icon{
+    transform: scale(5) translateY(-1px);
+}
+
+button .title{
+    position: absolute;
+    bottom: 5px;
+    margin-left: auto;
+    left: 50%;
+    transform: translateX(-50%);
+    width:100%;
+}
