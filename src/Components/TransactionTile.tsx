@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-
-import "./TransactionTile.css";
+import styles from "./TransactionTile.module.css"
+import { Icon } from "../Utils/Icon";
 
 type TransactionTilePropTypes = {
   item: {
@@ -18,6 +18,9 @@ export function TransactionTile({ item }: TransactionTilePropTypes) {
     if (event.key === "Escape") {
       setIsFocused(false);
     }
+  };
+  const handleEscape = () => {
+    setIsFocused(false)
   };
   useEffect(() => {
     document.addEventListener("keydown", handleKeyPress);
@@ -37,7 +40,7 @@ export function TransactionTile({ item }: TransactionTilePropTypes) {
   return (
     <>
       <div
-        className="card"
+        className= {styles.card}
         onMouseEnter={() => handleMouse("enter")}
         onMouseLeave={() => handleMouse("leave")}
         onClick={() => handleMouse("click")}
@@ -45,16 +48,18 @@ export function TransactionTile({ item }: TransactionTilePropTypes) {
         {!isHovered ? item.title : item.amount}
         {isFocused && (
           <>
-            <div className="overlay"></div>
-            <div className="full-container">
-              <div className="big">
+            <div className={styles.overlay}></div>
+            <div className={styles["full-container"]}>
+              <div className={styles.big}>
                 <div>{item.title}</div>
                 <div>{item.amount}</div>
                 <div>{item.date}</div>
                 <div>{item.type}</div>
               </div>
+            <div className={styles.close}>
+              <Icon val="close" onClick={handleEscape}></Icon>
             </div>
-            <div className="close"></div>
+            </div>
           </>
         )}
       </div>

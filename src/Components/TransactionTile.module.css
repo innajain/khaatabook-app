@@ -60,3 +60,13 @@
     justify-content: center;
     align-items: center;
 }
+
+.close{
+    position: absolute;
+    top: 1%;
+    right: 1%;
+}
+.close span{
+    color: white;
+    font-size: 2rem;
+}

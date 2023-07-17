@@ -269,6 +269,24 @@
       "amount": 300,
       "type": "debit",
       "date": "16/07/23"
+    },
+    {
+      "title": "charger",
+      "amount": 1400,
+      "type": "debit",
+      "date": "17/07/23"
+    },
+    {
+      "title": "oneplus power button",
+      "amount": 400,
+      "type": "debit",
+      "date": "17/07/23"
+    },
+    {
+      "title": "madan 2 onion kachori, dal makhani",
+      "amount": 289,
+      "type": "debit",
+      "date": "17/07/23"
     }
   ]
   
