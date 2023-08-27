@@ -6,14 +6,14 @@ export function Contacts(){
         <>
             <Link to={"/vite-khaatabook-app"} style={{textDecoration:"underline", color: "blue"}}>Home</Link>
             <div className={styles.container}>
-                <div>Mummy 8010032509</div>
-                <div>Papa 9899945802</div>
+                <div>Mummy 789654123</div>
+                <div>Papa 123654789</div>
                 <div>Inna 9268165849</div>
-                <div>Siddhu ##########</div>
-                <div>Babaji 9313121618</div>
-                <div>Tauji 7042099313</div>
-                <div>Sanyam Bhaiya 9654553982</div>
-                <div>Ishu 9953693307</div>
+                <div>Siddhu 987456854div>
+                <div>Babaji 7896548963</div>
+                <div>Tauji 75263698541</div>
+                <div>Sanyam Bhaiya 741258963</div>
+                <div>Ishu 963258741</div>
                 <div>Amma ##########</div>
             </div>
         </>
