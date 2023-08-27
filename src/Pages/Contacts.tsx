@@ -9,7 +9,7 @@ export function Contacts(){
                 <div>Mummy 789654123</div>
                 <div>Papa 123654789</div>
                 <div>Inna 9268165849</div>
-                <div>Siddhu 987456854div>
+                <div>Siddhu 987456854</div>
                 <div>Babaji 7896548963</div>
                 <div>Tauji 75263698541</div>
                 <div>Sanyam Bhaiya 741258963</div>
